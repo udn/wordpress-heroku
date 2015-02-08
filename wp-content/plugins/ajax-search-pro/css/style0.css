@@ -1,0 +1,440 @@
+
+
+
+
+@font-face {
+    font-family: 'asppsicons';
+    src: url('http://localhost/wp/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons.eot');
+    src: url('http://localhost/wp/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons.eot?#iefix') format('embedded-opentype'), url('http://localhost/wp/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons.woff') format('woff'), url('http://localhost/wp/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons.ttf') format('truetype'), url('http://localhost/wp/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons.svg#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+div[id*="ajaxsearchpro0_"] {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  background: #d1eaff;
+  background: ;;
+  overflow: hidden;
+    }
+
+div[id*="ajaxsearchpro0_"] .probox {
+  margin: ;
+  height: ;
+  background: ;;
+    }
+
+div[id*="ajaxsearchpro0_"] .probox .proinput {
+  }
+
+div[id*="ajaxsearchpro0_"] .probox .proinput input {
+    border: 0;
+  box-shadow: none;
+}
+
+div[id*="ajaxsearchpro0_"] .probox .proinput input.autocomplete {
+  }
+
+
+div[id*="ajaxsearchpro0_"] .probox .proloading,
+div[id*="ajaxsearchpro0_"] .probox .proclose,
+div[id*="ajaxsearchpro0_"] .probox .promagnifier,
+div[id*="ajaxsearchpro0_"] .probox .prosettings  {
+  width: px;
+  height: px;
+}
+
+div[id*="ajaxsearchpro0_"] .probox .promagnifier .innericon svg {
+  fill: ;
+}
+
+div[id*="ajaxsearchpro0_"] .probox .proloading svg {
+  fill: ;
+}
+
+div[id*="ajaxsearchpro0_"] .probox .prosettings .innericon svg {
+  fill: ;
+}
+
+    div[id*="ajaxsearchpro0_"] .probox .proloading {
+    background-image: url("http://localhost/wp/wp-content/plugins");
+    }
+
+
+div[id*="ajaxsearchpro0_"] .probox .proloading.asp_msie {
+    background-image: url("http://localhost/wp/wp-content/plugins/ajax-search-pro//img/loading/newload1.gif");
+}
+
+div[id*="ajaxsearchpro0_"] .probox .promagnifier {
+
+  width: 0px;
+  height: 0px;
+  background-image: -o-background: ;;
+  background-image: -ms-background: ;;
+  background-image: -webkit-background: ;;
+  background-image: background: ;;
+  background-position:center center;
+  background-repeat: no-repeat;
+
+      cursor: pointer;
+  background-size: 100% 100%;
+
+  background-position:center center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+
+    div[id*="ajaxsearchpro0_"] .probox .promagnifier .innericon {
+    background-image: url("http://localhost/wp/wp-content/plugins");
+    }
+
+div[id*="ajaxsearchpro0_"] .probox .prosettings {
+
+  width: 0px;
+  height: 0px;
+  background-image: -o-background: ;;
+  background-image: -ms-background: ;;
+  background-image: -webkit-background: ;;
+  background-image: background: ;;
+  background-position:center center;
+  background-repeat: no-repeat;
+  float: ;
+      cursor: pointer;
+  background-size: 100% 100%;
+}
+
+    div[id*="ajaxsearchpro0_"] .probox .prosettings .innericon {
+    background-image: url("http://localhost/wp/wp-content/plugins");
+    }
+
+div[id*="ajaxsearchprores0_"] {
+    position: static;
+    z-index:1100;
+}
+
+div[id*="ajaxsearchprores0_"].vertical {
+  padding: 4px;
+  background: ;
+  border-radius: 3px;
+      visibility: hidden;
+  display: none;
+}
+
+div[id*="ajaxsearchprores0_"].horizontal {
+  background: ;;
+    box-shadow: none;  margin-top: ;
+}
+
+div[id*="ajaxsearchprores0_"] .results .nores .keyword{
+  padding: 0 6px;
+  cursor: pointer;
+    font-weight: bold;
+}
+
+div[id*="ajaxsearchprores0_"] .results .item {
+  height: ;
+  background: ;
+}
+
+div[id*="ajaxsearchprores0_"].vertical .results .item:after {
+  background: ;
+}
+
+
+div[id*="ajaxsearchprores0_"] .results .item.hovered {
+  background: ;;
+}
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item {
+  height: ;
+  width: ;
+  margin: 10px ;
+  padding: ;
+  float: left;
+  background: ;;
+    box-shadow: none;}
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item:hover {
+  background: ;;
+}
+
+div[id*="ajaxsearchprores0_"] .results .item .image {
+  width: px;
+  height: px;
+}
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item .image {
+  margin: 0 auto;
+  background: ;;
+}
+
+<br />
+<b>Warning</b>:  Division by zero in <b>/Users/udnpico/dev/wp/wp-content/plugins/ajax-search-pro/css/style.css.php</b> on line <b>229</b><br />
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item .image {
+  width: px;
+  height: 0px;
+    float: none;
+  margin: 0 auto 6px;
+  position: relative;
+}
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item .image img + div {
+    position: absolute;
+  width: px;
+  height: 0px;
+  top: 0;
+  left: 0;
+}
+
+div[id*="ajaxsearchprores0_"] .results .item .content {
+  overflow: hidden;
+  width: 50%;
+  height: ;
+  background: transparent;
+  margin: 0;
+  padding: 0 10px;
+}
+
+div[id*="ajaxsearchprores0_"] .results .item .content h3 {
+  margin: 0;
+  padding: 0;
+  line-height: inherit;
+  }
+
+div[id*="ajaxsearchprores0_"].horizontal .results .item .content h3 a {
+  text-align: center;
+}
+
+div[id*="ajaxsearchprores0_"] .results .item .content h3 a {
+  margin: 0;
+  padding: 0;
+  line-height: inherit;
+  }
+
+div[id*="ajaxsearchprores0_"] .results .item .content h3 a:hover {
+  }
+
+div[id*="ajaxsearchprores0_"] .results .item div.etc {
+  padding: 0;
+  line-height: 10px;
+  }
+
+div[id*="ajaxsearchprores0_"] .results .item .etc .author {
+  padding: 0;
+  }
+
+div[id*="ajaxsearchprores0_"] .results .item .etc .date {
+  margin: 0 0 0 10px;
+  padding: 0;
+  }
+
+div[id*="ajaxsearchprores0_"] .results .item p.desc {
+  margin: 2px 0px;
+  padding: 0;
+  }
+
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+	background:#fff; /* rgba fallback */
+	background:rgba(0, 0, 0,0.9);
+	filter:"alpha(opacity=90)"; -ms-filter:"alpha(opacity=90)"; /* old ie */
+}
+
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{
+	background:rgba(0, 0, 0,0.95);
+	filter:"alpha(opacity=95)"; -ms-filter:"alpha(opacity=95)"; /* old ie */
+}
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar{
+	background:rgba(0, 0, 0,1);
+	filter:"alpha(opacity=100)"; -ms-filter:"alpha(opacity=100)"; /* old ie */
+}
+
+div[id*="ajaxsearchprores0_"].horizontal .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+	background:#fff; /* rgba fallback */
+	background:;
+  opacity: 0.9;
+	filter:"alpha(opacity=90)"; -ms-filter:"alpha(opacity=90)"; /* old ie */
+}
+div[id*="ajaxsearchprores0_"].horizontal .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{
+	background:;
+  opacilty: 0.95;
+	filter:"alpha(opacity=95)"; -ms-filter:"alpha(opacity=95)"; /* old ie */
+}
+
+div[id*="ajaxsearchprores0_"].horizontal .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+div[id*="ajaxsearchprores0_"].horizontal .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar{
+	background: ;
+	filter:"alpha(opacity=100)"; -ms-filter:"alpha(opacity=100)"; /* old ie */
+}
+
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_buttonDown:after { border-color: rgba(136, 183, 213, 0); border-top-color: ; border-width: 6px; left: 50%; margin-left: -6px; }
+div[id*="ajaxsearchprores0_"] .mCSB_scrollTools .mCSB_buttonUp:after { border-color: rgba(136, 183, 213, 0); border-bottom-color:  ; border-width: 6px; left: 50%; margin-left: -6px; }
+
+div[id*="ajaxsearchprores0_"] span.highlighted{
+    font-weight: bold;
+    color: #d9312b;
+    background-color: #eee;
+    color: ;
+    background-color: ;
+}
+
+div[id*="ajaxsearchprores0_"] p.showmore {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  }
+
+div[id*="ajaxsearchprores0_"] p.showmore a{
+  }
+
+div[id*="ajaxsearchprores0_"] .group {
+  background: #DDDDDD;
+  background: ;
+  border-radius: 3px 3px 0 0;
+  border-top: 1px solid ;
+  border-left: 1px solid ;
+  border-right: 1px solid ;
+  margin: 10px 0 -3px;
+  padding: 7px 0 7px 10px;
+  position: relative;
+  z-index: 1000;
+  }
+
+div[id*="ajaxsearchprores0_"].isotopic {
+    margin:    ;
+    padding:    ;
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic .results .item {
+    width: px;
+    height: px;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic .results .item .content {
+    background: ;
+}
+
+/* Isotopic navigation */
+div[id*="ajaxsearchprores0_"].isotopic>nav,
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation a.asp_prev,
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation a.asp_next {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation a.asp_prev svg,
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation a.asp_next svg {
+    fill: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation ul li.asp_active {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation ul li:hover {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation ul li.asp_active {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation ul li:hover {
+    background: ;
+}
+
+div[id*="ajaxsearchprores0_"].isotopic nav.asp_navigation ul li span {
+    color:  ;
+}
+
+
+/* Search settings */
+
+div[id*="ajaxsearchprosettings0_"].searchsettings  {
+  background: background: ;background: ;;
+  ;
+}
+
+div[id*="ajaxsearchprosettings0_"].searchsettings .label {
+  }
+
+
+div[id*="ajaxsearchprosettings0_"].searchsettings .option label {
+  background: ;;
+}
+
+div[id*="ajaxsearchprosettings0_"].searchsettings .option label:after {
+	border: 3px solid ;
+    border-right: none;
+    border-top: none;
+}
+
+div[id*="ajaxsearchprosettings0_"].searchsettings fieldset .categoryfilter {
+  max-height: px;
+  overflow: auto;
+}
+
+div[id*="ajaxsearchprosettings0_"].searchsettings  fieldset legend {
+  padding: 5px 0 0 10px;
+  margin: 0;
+  }
+
+div[id*="ajaxsearchprores0_"].horizontal .results .mCSB_scrollTools .mCSB_buttonLeft:after { border-color: rgba(136, 183, 213, 0); border-right-color: ; border-width: 7px; top: 50%; margin-top:  -7px; left: 5px; }
+div[id*="ajaxsearchprores0_"].horizontal .results .mCSB_scrollTools .mCSB_buttonRight:after { border-color: rgba(136, 183, 213, 0); border-left-color: ; border-width: 7px; top: 50%; margin-top:  -7px; left: 5px; }
+
+
+div[id*="ajaxsearchprores0_"] .photostack {
+  background: ;;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack figure {
+	width: ;
+	height: ;
+	position: relative;
+	display: inline-block;
+	background: #fff;
+	padding: ;
+	text-align: center;
+	margin: 5px;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack figcaption h2 {
+	margin: 20px 0 0 0;
+  ;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack figcaption h2 a {
+  ;
+}
+div[id*="ajaxsearchprores0_"] .photostack .etc {
+  ;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack-img {
+	width: 0px;
+	height: 0px;
+  ;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack-back {
+  ;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack nav span {
+  background: ;;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack nav span.current {
+  background: ;;
+}
+
+div[id*="ajaxsearchprores0_"] .photostack nav span.current.flip {
+  background: ;;
+}
